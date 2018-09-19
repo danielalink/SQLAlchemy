@@ -1,4 +1,4 @@
-# Surfs Up!
+# [Surfs Up!](climate_starter.ipynb)
 
 ![surfs-up.jpeg](Images/surfs-up.jpeg)
 
